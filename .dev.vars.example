@@ -1,0 +1,4 @@
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_WEBHOOK_SECRET=
+TELEGRAM_ADMIN_IDS=
+SITE_ORIGIN=https://shifa-aleasal.abdulfattox.chatgpt.site

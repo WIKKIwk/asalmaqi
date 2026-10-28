@@ -1,0 +1,65 @@
+{
+  "tool": "Built-in ImageGen",
+  "boardId": "eea40e8a-bf29-4224-a5e4-5583c35bb8a8",
+  "sourceImagesFolder": "../yuborilgan-rasmlar",
+  "design": "Preserve existing cream, dark ink, muted gold, serif typography and natural mountain photography. Change backgrounds only; preserve product silhouettes, lids, logos and labels. No invented prices, claims or promotional badges.",
+  "comparison": [
+    {
+      "source": "01-shifa-aleasal-asal.png",
+      "product": "Multi Flora 1 kg",
+      "previouslyInCatalog": false,
+      "addedAsset": "dist/assets/multi-flora-1kg.jpg"
+    },
+    {
+      "source": "02-qorongi-toqay-reklama.png",
+      "product": "Qorong‘i to‘qay 450 ± 15 g",
+      "previouslyInCatalog": true,
+      "retainedAsset": "dist/assets/qorongi.webp"
+    },
+    {
+      "source": "03-asallar-toplami.png",
+      "product": "Cho‘l, Qorong‘i to‘qay, Chotqol",
+      "previouslyInCatalog": true,
+      "photoNewToWebsite": true,
+      "addedAsset": "dist/assets/honey-trio.jpg"
+    },
+    {
+      "source": "04-qorongi-toqay-idish.png",
+      "product": "Qorong‘i to‘qay 1 450 ± 15 g",
+      "previouslyInCatalog": false,
+      "addedAsset": "dist/assets/qorongi-large.jpg"
+    },
+    {
+      "source": "05-chotqol-tog-asali.png",
+      "product": "Chotqol 450 ± 15 g",
+      "previouslyInCatalog": true,
+      "retainedAsset": "dist/assets/chotqol.webp"
+    },
+    {
+      "source": "06-chol-asali.png",
+      "product": "Cho‘l asali 450 ± 15 g",
+      "previouslyInCatalog": true,
+      "retainedAsset": "dist/assets/chol.webp"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "multi-flora-1kg",
+      "title": "Multi Flora · 1 kg",
+      "caption": "Asl qora va oltin yorliq saqlangan, saytning iliq tabiat uslubidagi mahsulot rasmi.",
+      "prompt": "Edit the supplied 1 kg SHIFA ALEASAL Multi Flora honey jar photo for the existing website. Preserve the EXACT jar silhouette, gold lid, amber honey, black wrap label, gold SHIFA ALEASAL logo, floral patterns, vertical black quality seal and original packaging lettering, including HONEY, MULTI FLORA and 1 kg. Do not change the brand, label, weight or product. Replace only the surroundings with restrained premium natural product photography: honey jar resting on a weathered light stone ledge, softly blurred green mountain valley behind, gentle warm morning light, pale cream and soft gold palette. Match the supplied existing Chotqol website photo's photographic color treatment, but use fewer props. Landscape 3:2 composition with the entire jar and lid visible, jar centered occupying about 75 percent of image height, generous natural breathing room. Real glass and honey textures, grounded soft shadow. No architecture, dates, bees, floating objects, exaggerated rays, saturation, advertisement headings, badges, certification claims, new text or watermark."
+    },
+    {
+      "id": "qorongi-large",
+      "title": "Qorong‘i to‘qay · 1450 g",
+      "caption": "Katta qadoqning asl shakli va yorlig‘i saqlangan tabiiy mahsulot rasmi.",
+      "prompt": "Edit the supplied AL ASAL SHIFA / TYAN-SHAN QORONGI TOQAY large honey jar photograph, retaining the same real product and ALL packaging artwork. Preserve its broad cylindrical jar proportions, dark black screw lid, amber honey, black label with wavy gold top border, pale bee/flower illustrations, gold ornament, AL ASAL SHIFA logo placement, TYAN-SHAN, QORONGI TOQAY and original small package lettering. Do not rebrand it as the small jar, do not change lid color, weight or logo. Replace only the background and supporting surface with refined natural product photography matching the provided existing website Qorongi honey photo: grounded jar on lightly weathered pale stone, softly blurred wooded mountain valley, warm soft morning light, cream, muted forest green and honey gold. Landscape 3:2 composition, jar centered and fully visible at about 75 percent image height. Remove external advertising graphics, giant weight caption, yellow number-2 badge, huge background logo, hanging hive and giant bees. No added text outside the real label, no badges, no invented claims, no floating jar or stylized rendering. Preserve label lettering and physical identity aggressively."
+    },
+    {
+      "id": "honey-trio",
+      "title": "Uch xil asal — bir dasturxon",
+      "caption": "Yuborilgan uchta idishning ko‘rinishini saqlagan vazmin, keng kompozitsiya.",
+      "prompt": "Edit the supplied photograph of three SHIFA ALEASAL honey jars as an editorial photograph for the existing honey website. Preserve ALL THREE original jars and their exact physical identities, caps, label designs, logos and printed lettering: front middle Cho'l asali with gold lid, pale yellow camel-rider label and naturally opaque honey; rear left small Qorongi Toqay with black lid, black gold TYAN-SHAN label; rear right small Chotqol with gold lid, black gold CHOTQOL TOG' ASALI label and clear amber honey. Keep their relative sizes, with the front jar slightly forward and two rear jars offset. Replace the busy indoor shelf surroundings only with a quiet natural outdoor setting: jars resting together on a lightly weathered wooden table in soft warm morning light, hazy muted mountain greenery far behind, one subtle out-of-focus branch at edge if needed. Match the provided existing website Chotqol photo's warmth and realism. Wide 3:2 landscape composition with entire jars visible and breathing space around them. Restrained cream, warm brown, muted green and honey gold, realistic grounded shadows and glass highlights. Do not invent or change label text or add new packaging. No flying bees, cartoon props, advertisement headings, discounts, quality badges, certificates, extra jars, oversaturation or watermark."
+    }
+  ]
+}

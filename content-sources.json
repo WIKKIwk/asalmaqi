@@ -1,0 +1,36 @@
+{
+  "verified_on": "2026-10-19",
+  "sources": [
+    {
+      "url": "https://t.me/chotqol_asal",
+      "supports": ["Brand name", "Both contact telephone numbers", "Tashkent, Olmazor district"]
+    },
+    {
+      "url": "https://t.me/chotqol_asal/3893",
+      "supports": ["Street spelling and address"],
+      "address_as_published": "1-й тупик. Охакчи 9",
+      "website_address": "Ohakchi 1-berk ko‘chasi, 9-xonadon"
+    },
+    {
+      "url": "https://t.me/chotqol_asal/3892",
+      "supports": ["Exact Google Maps link"],
+      "map_url": "https://maps.google.com/maps?q=41.338248087872,69.215935562127&ll=41.338248087872,69.215935562127&z=16"
+    },
+    {
+      "url": "https://t.me/chotqol_asal/3887",
+      "supports": ["Delivery within Tashkent", "Both contact telephone numbers", "Instagram profile"]
+    },
+    {
+      "url": "https://t.me/chotqol_asal/3889",
+      "supports": ["Chotqol honey: mountain flowers and floral aroma"]
+    },
+    {
+      "url": "https://t.me/chotqol_asal/3886",
+      "supports": ["Multiflora honey: a variety of mountain and field flowers"]
+    },
+    {
+      "url": "https://www.instagram.com/shifa_aleasal",
+      "supports": ["Beekeeping and honey products", "Brand values: honesty and quality", "Telegram channel"]
+    }
+  ]
+}
